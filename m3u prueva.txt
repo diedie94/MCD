@@ -1,0 +1,11 @@
+# Argentina
+https://raw.githubusercontent.com/diedie94/PerrisTV_2025/main/Argentina.m3u
+
+# Latinos
+https://raw.githubusercontent.com/diedie94/PerrisTV_2025/main/Latinos.m3u
+
+# Internacional
+https://raw.githubusercontent.com/diedie94/PerrisTV_2025/main/Internacional.m3u
+
+# Radios
+https://raw.githubusercontent.com/diedie94/PerrisTV_2025/main/Radios.m3u
