@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Radios", Radio Swiss Jazz
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 group-title="Radios", Radio Garden Demo
+https://live.radioart.com/fRadioArt.m3u8

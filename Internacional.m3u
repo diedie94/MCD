@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Internacional", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1 group-title="Internacional", DW Español
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8

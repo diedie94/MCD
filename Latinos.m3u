@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Latinos", Canal Once (México - educativo)
+https://live.canalonce.mx/live.m3u8
+#EXTINF:-1 group-title="Latinos", Telemedellín (Colombia - señal pública)
+https://streaming.telemedellin.tv/live.m3u8
